@@ -1,0 +1,84 @@
+.wrapper{
+	width:1200px;
+	margin: 6 auto 10 auto;
+}
+.heading{
+	margin: 0 auto 0 auto;
+	text-align: center;
+	height:30px;
+	color: darkred;
+}
+.navigation{
+	text-align:center;
+	width:1200px;
+	height:40px;
+	color:darkorange;
+}
+.left{
+	height:600px;
+	text-align:center;
+	width:560px;
+	padding:20px;
+	float:left;
+	color:darkred;
+}
+.right{
+	width:560px;
+	height:600px;	
+	text-align:center;
+	padding:20px;
+	float:right;
+	text-color:darkchocolate;
+}
+.formula{
+	background:#ccc;
+	width:1165px;
+	height:22px;
+	text-align:center;
+	padding:20px;
+	color:darkblue;
+}
+.content{
+	background:#ccc;
+	width:1165px;
+	height:30px;
+	text-align:left;
+	padding:20px;
+	color:darkgreen;
+}
+.sub{
+	background:white;
+	width:1161px;
+	height:4900px;
+	text-align:left;
+	padding:20px;
+	color:darkred;
+}
+.subhead{
+	background:#ccc;
+	width:1161px;
+	height:30px;
+	text-align:left;
+	padding:20px;
+	color:darkgreen;
+}
+.head{
+	background:white;
+	width:1161px;
+	height:1200px;
+	text-align:left;
+	padding:20px;
+	color:darkgreen;
+}
+.footer{
+	background:white;
+	text-align:right;
+}
+.end{
+	background:#ccc;
+	width:1161px;
+	height:65px;
+	text-align:left;
+	padding:20px;
+	color:darkred;
+}
